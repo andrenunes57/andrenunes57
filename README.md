@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello!, my name is André!
+### Welcome to my GitHub profile 🤘
 
-<!--
-**andrenunes57/andrenunes57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🚀 I’m currently working as a Software Developer Intern and graduating on System Analysis and Development.
+- 👨‍💻 I’m currently learning Backend Development, focusing on the .NET stack with C#.
+- 🏃‍♂️ I started my carrer transiotioning to Development about 1 year ago.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrenuneslimasp/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
