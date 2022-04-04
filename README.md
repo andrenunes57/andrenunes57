@@ -29,6 +29,7 @@
 See you!   
           
 <img src="https://c.tenor.com/nHz4KYmbyMIAAAAd/walking-2001a-space-odyssey.gif" />
-<iframe src="https://giphy.com/embed/8F64hrQgK86dvR0dAA" width="480" height="218" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecoolidge-2001-stanley-kubrick-8F64hrQgK86dvR0dAA">via GIPHY</a></p>          
+<img src="https://media.giphy.com/media/8F64hrQgK86dvR0dAA/giphy.gif" />
+          
           
           
