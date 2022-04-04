@@ -26,9 +26,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrenunes57&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
           
-See you!   
+###### See you!   
           
-<img src="https://c.tenor.com/nHz4KYmbyMIAAAAd/walking-2001a-space-odyssey.gif" />
 <img src="https://media.giphy.com/media/8F64hrQgK86dvR0dAA/giphy.gif" />
           
           
