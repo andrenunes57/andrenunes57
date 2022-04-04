@@ -2,9 +2,9 @@
 ### Welcome to my GitHub profile 🤘
 
 
-- 🚀 I’m currently working as a Software Developer Intern and graduating on System Analysis and Development.
+- 🚀 I’m currently working as a Software Developer Intern and graduating in System Analysis and Development.
 - 👨‍💻 I’m currently learning Backend Development, focusing on the .NET stack with C#.
-- 🏃‍♂️ I started my carrer transiotioning to Development about 1 year ago.  
+- 🏃‍♂️ I started my career transition to Development about one year ago.  
 
 ### Technologies:
 
