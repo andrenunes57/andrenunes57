@@ -26,10 +26,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrenunes57&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
           
-See you!
-<div class="tenor-gif-embed" data-postid="8632393" data-share-method="host" data-aspect-ratio="1.86" data-width="100%"><a href="https://tenor.com/view/walking-2001a-space-odyssey-stanley-kubrick-walk-gif-8632393">Walking 2001a Space Odyssey GIF</a>from <a href="https://tenor.com/search/walking-gifs">Walking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>          
+See you!   
           
 <img src="https://c.tenor.com/nHz4KYmbyMIAAAAd/walking-2001a-space-odyssey.gif" />
-          
+<iframe src="https://giphy.com/embed/8F64hrQgK86dvR0dAA" width="480" height="218" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecoolidge-2001-stanley-kubrick-8F64hrQgK86dvR0dAA">via GIPHY</a></p>          
           
           
