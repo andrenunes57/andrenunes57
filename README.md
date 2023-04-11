@@ -4,6 +4,7 @@
 
 - 🚀 I’m a Software Developer and graduating in Development.
 - 👨‍💻 I Already study Backend/Frontend Development with HTML,CSS and Javascript and also .NET/C#.
+- 🚧 Checkout my pinned projects below!
 
 ### Technologies:
 
