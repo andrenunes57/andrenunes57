@@ -2,7 +2,7 @@
 ### Welcome to my GitHub profile 🤘
 
 
-- 🚀 I’m a Software Developer and graduating in Development.
+- 🚀 I’m a Software Developer Junior and studying Development.
 - 👨‍💻 I Already study Backend/Frontend Development with HTML,CSS and Javascript and also .NET/C#.
 - 🚧 Checkout my pinned projects below!
 
