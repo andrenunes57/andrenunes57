@@ -3,7 +3,7 @@
 
 
 - 🚀 I’m a Software Developer Junior and studying Development.
-- 👨‍💻 I Already study Backend/Frontend Development with HTML,CSS and Javascript and also .NET/C#.
+- 👨‍💻 I Already use .NET/C# and HTML,CSS,Javascript for Backend/Frontend Development.
 - 🚧 Checkout my pinned projects below!
 
 ### Technologies:
